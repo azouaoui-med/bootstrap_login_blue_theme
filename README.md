@@ -1,4 +1,4 @@
-# Bootstrap login theme
+# Bootstrap login template
 A responsive login form made with bootstrap.
 
 ## Demo
